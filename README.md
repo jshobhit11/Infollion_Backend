@@ -167,3 +167,16 @@ Errors are logged to the console for debugging purposes.
  Ensure the `AUTH_TOKEN` is kept secret and secure.
 
 **Rate Limiting:** Protects the API from abuse by limiting the number of requests allowed per IP.
+
+## Screenshots
+**Status Code 200**
+
+![Successful Search](https://i.imgur.com/bCNlnuY.png)
+
+**Status Code 500**
+
+![Status Code 500](https://i.imgur.com/hSQofN4.png)
+
+**Status Code 429**
+
+![Status Code 429](https://i.imgur.com/g0AVCce.png)
